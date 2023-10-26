@@ -1,0 +1,30 @@
+.toolbar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.toolbarButton{
+    color: #555;
+    background-color: #fff;
+    padding: 5px 15px;
+    border: 1px solid #555;
+    cursor: pointer;
+}
+
+.toolbarButton:nth-child(n+2){
+    margin-left: 2px;
+}
+
+.toolbarButton:hover{
+    background-color: #dcdbdb;
+}
+
+.toolbarButtonSelect{
+    background-color: #555;
+    color: #fff;
+    border-color: #fff;
+}
+
+.toolbarButtonSelect:hover{
+    background-color: #727070;
+}

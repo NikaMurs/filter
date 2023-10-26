@@ -1,0 +1,11 @@
+.portfolio {
+    width: 70%;
+    margin: auto;
+}
+
+.img{
+    margin: 5px;
+    width: calc(33.3% - 10px);
+    height: 100%;
+    object-fit: contain;
+}
