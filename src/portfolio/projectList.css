@@ -1,7 +1,5 @@
 .projectList {
     display: flex;
-    justify-content: start;
-    flex-direction: column;
     flex-wrap: wrap;
-    max-height: 1500px;
+    justify-content: start;
 }
