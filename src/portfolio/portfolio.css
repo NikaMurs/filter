@@ -5,7 +5,5 @@
 
 .img{
     margin: 5px;
-    width: calc(33.3% - 10px);
-    height: 100%;
-    object-fit: contain;
+    width: 100%;
 }

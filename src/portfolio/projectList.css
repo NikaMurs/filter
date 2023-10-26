@@ -1,5 +1,6 @@
 .projectList {
-    display: flex;
+    /* display: flex;
     flex-wrap: wrap;
-    justify-content: start;
+    justify-content: start; */
+    column-count: 3;
 }
